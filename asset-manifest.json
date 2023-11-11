@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kovrr-cyber-bookstore/static/css/main.f08f6f18.css",
+    "main.js": "/kovrr-cyber-bookstore/static/js/main.735ee8f0.js",
+    "index.html": "/kovrr-cyber-bookstore/index.html",
+    "main.f08f6f18.css.map": "/kovrr-cyber-bookstore/static/css/main.f08f6f18.css.map",
+    "main.735ee8f0.js.map": "/kovrr-cyber-bookstore/static/js/main.735ee8f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f08f6f18.css",
+    "static/js/main.735ee8f0.js"
+  ]
+}
