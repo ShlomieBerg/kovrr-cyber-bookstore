@@ -1,0 +1,8 @@
+.formLabel {
+    margin-right: 10px;
+}
+
+.error {
+  color: red;
+  font-size: 10px; 
+}

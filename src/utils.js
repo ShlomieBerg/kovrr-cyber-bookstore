@@ -1,0 +1,2 @@
+export const getQueryFromValue = (value) => `cyber+${ value.trim().replace(/\s+/g, ' ').replace(/ /g, '+') }`;
+export const getValueFromQuery = (query) => query.replace(/^cyber+\s*/, '').replace(/\+/g, ' ');
